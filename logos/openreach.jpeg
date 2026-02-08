@@ -1,0 +1,2394 @@
+
+<!DOCTYPE HTML>
+<!--[if lt IE 7]><html lang="en-GB" class="no-js lt-ie9 lt-ie8 lt-ie7"><![endif]-->
+<!--[if IE 7]><html lang="en-GB" class="no-js lt-ie9 lt-ie8"><![endif]-->
+<!--[if IE 8]><html lang="en-GB" class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--><html lang="en-GB" class="no-js"> <!--<![endif]-->
+		<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge"/>	  
+    <meta charset="UTF-8"/>  
+	<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+	
+    	<title>404</title>
+	
+    <meta name="template" content="cpportal-page"/>
+	
+	
+	        <meta name="robots" content="noindex,nofollow"/>
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+	
+
+	
+
+	<!-- Google Tag Manager -->
+<script type="text/javascript" src="/ruxitagentjs_ICA7NVfgqrux_10329260115094557.js" data-dtconfig="app=c887b0e8848d613e|ssc=1|coo=1|owasp=1|featureHash=ICA7NVfgqrux|rdnt=1|uxrgce=1|cuc=amvxge00|mel=100000|dpvc=1|lastModification=1769540641678|tp=500,50,0|srbbv=2|agentUri=/ruxitagentjs_ICA7NVfgqrux_10329260115094557.js|reportUrl=/rb_bf67127rmq|rid=RID_12218096|rpid=-215011686|domain=openreach.co.uk"></script><script>
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NL7Q3GH7');
+</script>
+<!-- End Google Tag Manager -->
+
+    
+    
+    
+<link rel="stylesheet" href="/cpportal/etc.clientlibs/openreach/cpportal/clientlibs/bootstrap-libs.css" type="text/css">
+
+
+
+
+    
+<link rel="stylesheet" href="/cpportal/etc.clientlibs/openreach/cpportal/clientlibs/responsive-libs.css" type="text/css">
+
+
+
+
+    
+<link rel="stylesheet" href="/cpportal/etc.clientlibs/openreach/cpportal/clientlibs/cpportal.css" type="text/css">
+
+
+
+
+    
+<script src="/cpportal/etc.clientlibs/openreach/cpportal/clientlibs/cpportal.js"></script>
+
+
+
+	<link rel="shortcut icon" href="/cpportal/content/dam/cpportal/public/images-and-documents/home/resources/img/favicon.ico" type="image/x-icon"/>
+    
+</head>
+		<body class="page basicpage" id="page-6c3fddb8f2">	  
+					
+			
+			
+				
+
+
+
+
+				<div class="root responsivegrid">
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="container box component section zero-padding maxWidth aem-GridColumn aem-GridColumn--default--12">
+     
+     
+     
+     <div id="container-ef92ad0feb" class="cmp-container component-content">
+          
+          <div class="experiencefragment reference-header-snippet">
+<div id="experiencefragment-5ef2c9b9c8" class="cmp-experiencefragment cmp-experiencefragment--bare-header">
+
+      
+  	
+  	
+
+  	
+  	
+
+	<div id="container-cd87fe2055" class="cmp-container component-content ">
+
+    	<div class="paragraphSystem content aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+      		
+      		<div class="container box component section box-background-white box-wrapper maxWidth box-header-search aem-GridColumn aem-GridColumn--default--12">
+      
+  	
+  	
+
+  	
+  	
+
+	<div id="container-c2b8c34df9" class="cmp-container component-content ">
+
+    	<div class="paragraphSystem content aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+      		
+      		<div class="container box component section box-logos aem-GridColumn--default--none aem-GridColumn aem-GridColumn--default--6 aem-GridColumn--offset--default--0">
+      
+  	
+  	
+
+  	
+  	
+
+	<div id="container-d71de7269a" class="cmp-container component-content ">
+
+    	<div class="paragraphSystem content aem-Grid aem-Grid--6 aem-Grid--tablet--12 aem-Grid--default--6 ">
+      		
+      		<div class="image image-header-logo aem-GridColumn--offset--tablet--0 aem-GridColumn--default--none aem-GridColumn--tablet--3 aem-GridColumn--tablet--none aem-GridColumn aem-GridColumn--offset--default--0 aem-GridColumn--default--4"><!--Custom Image component -->
+<div class="component-content left">
+	<a href="/cpportal/home" title="Customer Portal"><image src="/content/dam/cpportal/public/images-and-documents/home/images/logo.png" alt="Customer Portal" title="" width="" height="" />
+
+    </a>
+        </div>
+</div>
+
+      		
+    	</div>
+    </div>
+
+     
+</div>
+<div class="container box component section box-logged-in-header-wrapper aem-GridColumn--default--none aem-GridColumn aem-GridColumn--default--6 aem-GridColumn--offset--default--0">
+      
+  	
+  	
+
+  	
+  	
+
+	<div id="container-ba3bba582a" class="cmp-container component-content ">
+
+    	<div class="paragraphSystem content aem-Grid aem-Grid--6 aem-Grid--tablet--12 aem-Grid--default--6 ">
+      		
+      		<div class="loggedInHeader aem-GridColumn--default--none aem-GridColumn aem-GridColumn--offset--default--0 aem-GridColumn--default--1">
+    
+    
+        <div class="component-content">
+			<div class="loggedInHeader-unknown">
+				<a href="/cpportal/login" title="login"><span>login</span></a>
+			</div>             
+		</div>
+    
+</div>
+<div class="searchBox component aem-GridColumn--tablet--12 aem-GridColumn--offset--tablet--0 aem-GridColumn--default--none aem-GridColumn--tablet--none aem-GridColumn aem-GridColumn--offset--default--0 aem-GridColumn--default--4"><span class="searchBox-header strudel-init" style="margin-top: 11px;">
+	<div class="component-content">
+		<form class="collapsed form-search" action="/cpportal/search-result" method="get" id="myButton">
+			<input type="hidden" name="_charset_" value="UTF-8"/>
+
+			<label for="search_" class="searchBox-label">
+				 <input type="text" name="q" id="search_" maxlength="2048" class="input-medium search-query" placeholder="Search...">
+			</label>
+			<button type="submit" class="button"
+			>
+				Search </button>
+		</form>
+	</div>
+                </span>
+
+<script type="text/javascript">
+
+  var myButton = document.getElementById("myButton");
+  
+
+  myButton.setAttribute("aria-expanded", "false");
+    </script></div>
+
+      		
+    	</div>
+    </div>
+
+     
+</div>
+
+      		
+    	</div>
+    </div>
+
+     
+</div>
+<div class="container box component section box-background-teal maxWidth zero-padding aem-GridColumn aem-GridColumn--default--12">
+     
+     
+     
+     <div id="container-8e891262a5" class="cmp-container component-content">
+          
+          <div class="container box component section box-wrapper maxWidth box-navigation-header">
+      
+  	
+  	
+
+  	
+  	
+
+	<div id="container-75e778dc0c" class="cmp-container component-content ">
+
+    	<div class="paragraphSystem content aem-Grid aem-Grid--12 aem-Grid--tablet--12 aem-Grid--default--12 ">
+      		
+      		<div class="navigation navigation-header-primary js-navigation-dropdown aem-GridColumn--offset--tablet--0 aem-GridColumn--default--none aem-GridColumn--tablet--none aem-GridColumn aem-GridColumn--default--7 aem-GridColumn--tablet--7 aem-GridColumn--offset--default--0"><div class="component-content"> 
+    <div class="analytics-navigation-tracking"></div> 
+    <button class="navigation-mobile-menu" aria-expanded="false"></button>
+	
+<!-- Custom Navigation component -->
+
+
+
+
+	
+		<ul class="navigation-root navigation-branch navigation-level1"> 
+
+            
+
+
+            <li class="first navigation-item navigation-level1 page-Products has-children">
+
+
+				<a href="/cpportal/products" title="Products" class="navigation-item-title">Products </a>
+					<ul class="navigation-root navigation-branch navigation-level2"> 
+
+
+ 						
+
+						<li class="nav-child navigation-item navigation-level2 page-Overview ">
+                        
+                        		<a href="/cpportal/products" title="Overview" class="navigation-second navigation-item-title">Overview</a>
+                        
+                         
+								
+						</li>
+					 
+
+
+ 						
+
+						<li class="nav-child navigation-item navigation-level2 page-The All IP and Exchange Exit programmes has-children">
+                        
+                        
+							<a href="/cpportal/products/the-all-ip-programme" title="The All IP and Exchange Exit programmes" class="navigation-second navigation-item-title">The All IP and Exchange Exit programmes</a> 
+								<ul class="navigation-root navigation-branch navigation-level3">
+									<li class="navigation-item navigation-level3 page-Overview">
+                                    	
+                                        	<a href="/cpportal/products/the-all-ip-programme" title="Overview" class="navigation-second navigation-item-title">Overview</a>
+                                        
+										
+									</li>
+								
+									<li class="navigation-item navigation-level3 page-Exchange Exit">
+                                    	
+										
+											<a href="/cpportal/products/the-all-ip-programme/exchange-exit-programme" title="Exchange Exit" class="navigation-item-title">Exchange Exit <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								
+									<li class="navigation-item navigation-level3 page-Test Lab">
+                                    	
+										
+											<a href="/cpportal/products/the-all-ip-programme/digital-services-test-lab" title="Test Lab" class="navigation-item-title">Test Lab <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								
+									<li class="navigation-item navigation-level3 page-Businesses and Services">
+                                    	
+										
+											<a href="/cpportal/products/the-all-ip-programme/services-industry-and-business" title="Businesses and Services" class="navigation-item-title">Businesses and Services <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								
+									<li class="navigation-item navigation-level3 page-Stop sell">
+                                    	
+										
+											<a href="/cpportal/products/the-all-ip-programme/stopsell-updates" title="Stop sell" class="navigation-item-title">Stop sell <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								
+									<li class="navigation-item navigation-level3 page-WLR Withdrawal">
+                                    	
+										
+											<a href="/cpportal/products/the-all-ip-programme/wlr-withdrawal" title="WLR Withdrawal" class="navigation-item-title">WLR Withdrawal <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								
+									<li class="navigation-item navigation-level3 page-Collateral">
+                                    	
+										
+											<a href="/cpportal/products/the-all-ip-programme/collateral" title="Collateral" class="navigation-item-title">Collateral <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								
+									<li class="navigation-item navigation-level3 page-All  IP Trials">
+                                    	
+										
+											<a href="/cpportal/products/the-all-ip-programme/all-ip-trials" title="All  IP Trials" class="navigation-item-title">All  IP Trials <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								</ul>
+						</li>
+					 
+
+
+ 						
+
+						<li class="nav-child navigation-item navigation-level2 page-Full Fibre and Fibre to the Cabinet broadband has-children">
+                        
+                        
+							<a href="/cpportal/products/fibre-broadband" title="Full Fibre and Fibre to the Cabinet broadband" class="navigation-second navigation-item-title">Full Fibre and Fibre to the Cabinet broadband</a> 
+								<ul class="navigation-root navigation-branch navigation-level3">
+									<li class="navigation-item navigation-level3 page-Overview">
+                                    	
+                                        	<a href="/cpportal/products/fibre-broadband" title="Overview" class="navigation-second navigation-item-title">Overview</a>
+                                        
+										
+									</li>
+								
+									<li class="navigation-item navigation-level3 page-Full Fibre broadband">
+                                    	
+										
+											<a href="/cpportal/products/fibre-broadband/ultrafast" title="Full Fibre broadband" class="navigation-item-title">Full Fibre broadband <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								
+									<li class="navigation-item navigation-level3 page-FTTP">
+                                    	
+										
+											<a href="/cpportal/products/fibre-broadband/fttp" title="FTTP" class="navigation-item-title">FTTP <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								
+									<li class="navigation-item navigation-level3 page-FTTP on Demand">
+                                    	
+										
+											<a href="/cpportal/products/fibre-broadband/new-fttp-on-demand" title="FTTP on Demand" class="navigation-item-title">FTTP on Demand <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								
+									<li class="navigation-item navigation-level3 page-Gfast">
+                                    	
+										
+											<a href="/cpportal/products/fibre-broadband/g-fast" title="Gfast" class="navigation-item-title">Gfast <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								
+									<li class="navigation-item navigation-level3 page-SOGfast">
+                                    	
+										
+											<a href="/cpportal/products/fibre-broadband/sog-fast" title="SOGfast" class="navigation-item-title">SOGfast <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								
+									<li class="navigation-item navigation-level3 page-Fibre to the Cabinet broadband">
+                                    	
+										
+											<a href="/cpportal/products/fibre-broadband/superfast" title="Fibre to the Cabinet broadband" class="navigation-item-title">Fibre to the Cabinet broadband <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								
+									<li class="navigation-item navigation-level3 page-FTTC">
+                                    	
+										
+											<a href="/cpportal/products/fibre-broadband/fttc" title="FTTC" class="navigation-item-title">FTTC <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								
+									<li class="navigation-item navigation-level3 page-SOGEA">
+                                    	
+										
+											<a href="/cpportal/products/fibre-broadband/sogea" title="SOGEA" class="navigation-item-title">SOGEA <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								
+									<li class="navigation-item navigation-level3 page-Installation Options">
+                                    	
+										
+											<a href="/cpportal/products/fibre-broadband/installation-options" title="Installation Options" class="navigation-item-title">Installation Options <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								
+									<li class="navigation-item navigation-level3 page-Overlay Services (GEA Multicast)">
+                                    	
+										
+											<a href="/cpportal/products/fibre-broadband/overlay-services" title="Overlay Services (GEA Multicast)" class="navigation-item-title">Overlay Services (GEA Multicast) <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								
+									<li class="navigation-item navigation-level3 page-Generic Ethernet Access Contracts">
+                                    	
+										
+											<a href="/cpportal/products/fibre-broadband/fibre-contracts" title="Generic Ethernet Access Contracts" class="navigation-item-title">Generic Ethernet Access Contracts <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								</ul>
+						</li>
+					 
+
+
+ 						
+
+						<li class="nav-child navigation-item navigation-level2 page-Copper has-children">
+                        
+                        
+							<a href="/cpportal/products/copper" title="Copper" class="navigation-second navigation-item-title">Copper</a> 
+								<ul class="navigation-root navigation-branch navigation-level3">
+									<li class="navigation-item navigation-level3 page-Overview">
+                                    	
+                                        	<a href="/cpportal/products/copper" title="Overview" class="navigation-second navigation-item-title">Overview</a>
+                                        
+										
+									</li>
+								
+									<li class="navigation-item navigation-level3 page-MPF &amp; SMPF">
+                                    	
+										
+											<a href="/cpportal/products/copper/mpf-smpf" title="MPF &amp; SMPF" class="navigation-item-title">MPF &amp; SMPF <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								
+									<li class="navigation-item navigation-level3 page-Broadband Enabling Technology (BET)">
+                                    	
+										
+											<a href="/cpportal/products/copper/broadband-enabling-technology(BET)" title="Broadband Enabling Technology (BET)" class="navigation-item-title">Broadband Enabling Technology (BET) <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								
+									<li class="navigation-item navigation-level3 page-WLR">
+                                    	
+										
+											<a href="/cpportal/products/copper/wlr" title="WLR" class="navigation-item-title">WLR <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								
+									<li class="navigation-item navigation-level3 page-Wholesale Analogue Access (PSTN)">
+                                    	
+										
+											<a href="/cpportal/products/copper/wholesale-analogue-access" title="Wholesale Analogue Access (PSTN)" class="navigation-item-title">Wholesale Analogue Access (PSTN) <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								
+									<li class="navigation-item navigation-level3 page-Wholesale Line Rental 3 (WLR3) Premium">
+                                    	
+										
+											<a href="/cpportal/products/copper/wlr3-premium" title="Wholesale Line Rental 3 (WLR3) Premium" class="navigation-item-title">Wholesale Line Rental 3 (WLR3) Premium <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								
+									<li class="navigation-item navigation-level3 page-Calling and network features">
+                                    	
+										
+											<a href="/cpportal/products/copper/calling-and-network-features" title="Calling and network features" class="navigation-item-title">Calling and network features <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								
+									<li class="navigation-item navigation-level3 page-Wholesale Digital Access ISDN2">
+                                    	
+										
+											<a href="/cpportal/products/copper/wholesale-digital-access-isdn2" title="Wholesale Digital Access ISDN2" class="navigation-item-title">Wholesale Digital Access ISDN2 <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								
+									<li class="navigation-item navigation-level3 page-Wholesale Digital Access ISDN30">
+                                    	
+										
+											<a href="/cpportal/products/copper/wholesale-digital-access-isdn30" title="Wholesale Digital Access ISDN30" class="navigation-item-title">Wholesale Digital Access ISDN30 <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								
+									<li class="navigation-item navigation-level3 page-SOTAP">
+                                    	
+										
+											<a href="/cpportal/products/copper/sotap" title="SOTAP" class="navigation-item-title">SOTAP <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								
+									<li class="navigation-item navigation-level3 page-SOTAP for Analogue">
+                                    	
+										
+											<a href="/cpportal/products/copper/sotap-for-analogue" title="SOTAP for Analogue" class="navigation-item-title">SOTAP for Analogue <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								
+									<li class="navigation-item navigation-level3 page-Copper contracts">
+                                    	
+										
+											<a href="/cpportal/products/copper/contracts" title="Copper contracts" class="navigation-item-title">Copper contracts <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								
+									<li class="navigation-item navigation-level3 page-Local Loop Unbundling (LLU)">
+                                    	
+										
+											<a href="/cpportal/products/copper/local-loop-unbundling(LLU)" title="Local Loop Unbundling (LLU)" class="navigation-item-title">Local Loop Unbundling (LLU) <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								
+									<li class="navigation-item navigation-level3 page-Sub Loop Unbundling (SLU)">
+                                    	
+										
+											<a href="/cpportal/products/copper/sub-loop-unbundling(SLU)" title="Sub Loop Unbundling (SLU)" class="navigation-item-title">Sub Loop Unbundling (SLU) <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								
+									<li class="navigation-item navigation-level3 page-Wholesale Line Rental(EVAc)">
+                                    	
+										
+											<a href="/cpportal/products/copper/wholesale-line-rental" title="Wholesale Line Rental(EVAc)" class="navigation-item-title">Wholesale Line Rental(EVAc) <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								</ul>
+						</li>
+					 
+
+
+ 						
+
+						<li class="nav-child navigation-item navigation-level2 page-Ethernet has-children">
+                        
+                        
+							<a href="/cpportal/products/ethernet" title="Ethernet" class="navigation-second navigation-item-title">Ethernet</a> 
+								<ul class="navigation-root navigation-branch navigation-level3">
+									<li class="navigation-item navigation-level3 page-Overview">
+                                    	
+                                        	<a href="/cpportal/products/ethernet" title="Overview" class="navigation-second navigation-item-title">Overview</a>
+                                        
+										
+									</li>
+								
+									<li class="navigation-item navigation-level3 page-Ethernet Access Direct">
+                                    	
+										
+											<a href="/cpportal/products/ethernet/ethernet-access-direct" title="Ethernet Access Direct" class="navigation-item-title">Ethernet Access Direct <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								
+									<li class="navigation-item navigation-level3 page-Ethernet Backhaul Direct">
+                                    	
+										
+											<a href="/cpportal/products/ethernet/ethernet-backhaul-direct" title="Ethernet Backhaul Direct" class="navigation-item-title">Ethernet Backhaul Direct <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								
+									<li class="navigation-item navigation-level3 page-Specialist access services">
+                                    	
+										
+											<a href="/cpportal/products/ethernet/specialist-access-services" title="Specialist access services" class="navigation-item-title">Specialist access services <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								
+									<li class="navigation-item navigation-level3 page-Ethernet data centres">
+                                    	
+										
+											<a href="/cpportal/products/ethernet/ethernet-data-centres" title="Ethernet data centres" class="navigation-item-title">Ethernet data centres <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								
+									<li class="navigation-item navigation-level3 page-Resilience ">
+                                    	
+										
+											<a href="/cpportal/products/ethernet/resilience" title="Resilience " class="navigation-item-title">Resilience  <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								
+									<li class="navigation-item navigation-level3 page-Contracts">
+                                    	
+										
+											<a href="/cpportal/products/contracts" title="Contracts" class="navigation-item-title">Contracts <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								
+									<li class="navigation-item navigation-level3 page-Ethernet Access Direct Sensitive">
+                                    	
+										
+											<a href="/cpportal/products/ethernet/EthernetAccessDirectSensitive" title="Ethernet Access Direct Sensitive" class="navigation-item-title">Ethernet Access Direct Sensitive <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								
+									<li class="navigation-item navigation-level3 page-Ethernet Access Direct 2.0 (EAD2.0)">
+                                    	
+										
+											<a href="/cpportal/products/ethernet/ethernet-access-direct-2_0" title="Ethernet Access Direct 2.0 (EAD2.0)" class="navigation-item-title">Ethernet Access Direct 2.0 (EAD2.0) <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								
+									<li class="navigation-item navigation-level3 page-Offers">
+                                    	
+										
+											<a href="/cpportal/products/ethernet/offers" title="Offers" class="navigation-item-title">Offers <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								</ul>
+						</li>
+					 
+
+
+ 						
+
+						<li class="nav-child navigation-item navigation-level2 page-Optical has-children">
+                        
+                        
+							<a href="/cpportal/products/optical" title="Optical" class="navigation-second navigation-item-title">Optical</a> 
+								<ul class="navigation-root navigation-branch navigation-level3">
+									<li class="navigation-item navigation-level3 page-Overview">
+                                    	
+                                        	<a href="/cpportal/products/optical" title="Overview" class="navigation-second navigation-item-title">Overview</a>
+                                        
+										
+									</li>
+								
+									<li class="navigation-item navigation-level3 page-Optical Spectrum Access (OSA)">
+                                    	
+										
+											<a href="/cpportal/products/optical/optical-spectrum-access(OSA)" title="Optical Spectrum Access (OSA)" class="navigation-item-title">Optical Spectrum Access (OSA) <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								
+									<li class="navigation-item navigation-level3 page-Optical Spectrum Extended Access(OSEA)">
+                                    	
+										
+											<a href="/cpportal/products/optical/optical-spectrum-extended-access(OSEA)" title="Optical Spectrum Extended Access(OSEA)" class="navigation-item-title">Optical Spectrum Extended Access(OSEA) <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								
+									<li class="navigation-item navigation-level3 page-Resilience">
+                                    	
+										
+											<a href="/cpportal/products/optical/resilience" title="Resilience" class="navigation-item-title">Resilience <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								
+									<li class="navigation-item navigation-level3 page-OSA 100G Single">
+                                    	
+										
+											<a href="/cpportal/products/optical/osa-100g-single" title="OSA 100G Single" class="navigation-item-title">OSA 100G Single <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								</ul>
+						</li>
+					 
+
+
+ 						
+
+						<li class="nav-child navigation-item navigation-level2 page-Passive products has-children">
+                        
+                        
+							<a href="/cpportal/products/passive-products" title="Passive products" class="navigation-second navigation-item-title">Passive products</a> 
+								<ul class="navigation-root navigation-branch navigation-level3">
+									<li class="navigation-item navigation-level3 page-Overview">
+                                    	
+                                        	<a href="/cpportal/products/passive-products" title="Overview" class="navigation-second navigation-item-title">Overview</a>
+                                        
+										
+									</li>
+								
+									<li class="navigation-item navigation-level3 page-Physical Infrastructure Access(PIA)">
+                                    	
+										
+											<a href="/cpportal/products/passive-products/physical-infrastructure-access(PIA)" title="Physical Infrastructure Access(PIA)" class="navigation-item-title">Physical Infrastructure Access(PIA) <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								
+									<li class="navigation-item navigation-level3 page-Mobile Infill Infrastructure Solution">
+                                    	
+										
+											<a href="/cpportal/products/passive-products/mobile-infill-infrastructure-solution" title="Mobile Infill Infrastructure Solution" class="navigation-item-title">Mobile Infill Infrastructure Solution <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								
+									<li class="navigation-item navigation-level3 page-Passive contracts">
+                                    	
+										
+											<a href="/cpportal/products/passive-products/passive-contracts" title="Passive contracts" class="navigation-item-title">Passive contracts <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								
+									<li class="navigation-item navigation-level3 page-Building Digital UK (BDUK)">
+                                    	
+										
+											<a href="/cpportal/products/passive-products/building-digital-UK_BDUK" title="Building Digital UK (BDUK)" class="navigation-item-title">Building Digital UK (BDUK) <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								
+									<li class="navigation-item navigation-level3 page-Dark Fibre">
+                                    	
+										
+											<a href="/cpportal/products/passive-products/darkfibre" title="Dark Fibre" class="navigation-item-title">Dark Fibre <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								</ul>
+						</li>
+					 
+
+
+ 						
+
+						<li class="nav-child navigation-item navigation-level2 page-Exchange Based Products has-children">
+                        
+                        
+							<a href="/cpportal/products/exchange-based-products" title="Exchange Based Products" class="navigation-second navigation-item-title">Exchange Based Products</a> 
+								<ul class="navigation-root navigation-branch navigation-level3">
+									<li class="navigation-item navigation-level3 page-Overview">
+                                    	
+                                        	<a href="/cpportal/products/exchange-based-products" title="Overview" class="navigation-second navigation-item-title">Overview</a>
+                                        
+										
+									</li>
+								
+									<li class="navigation-item navigation-level3 page-Co-mingling">
+                                    	
+										
+											<a href="/cpportal/products/exchange-based-products/co-mingling" title="Co-mingling" class="navigation-item-title">Co-mingling <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								
+									<li class="navigation-item navigation-level3 page-Access Locate and Access Locate Plus">
+                                    	
+										
+											<a href="/cpportal/products/exchange-based-products/access-locate" title="Access Locate and Access Locate Plus" class="navigation-item-title">Access Locate and Access Locate Plus <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								
+									<li class="navigation-item navigation-level3 page-Internal tie cable">
+                                    	
+										
+											<a href="/cpportal/products/exchange-based-products/internal-tie-cable" title="Internal tie cable" class="navigation-item-title">Internal tie cable <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								
+									<li class="navigation-item navigation-level3 page-Enhanced specification internal tie cable">
+                                    	
+										
+											<a href="/cpportal/products/exchange-based-products/enhanced-specification-internal-tie-cable" title="Enhanced specification internal tie cable" class="navigation-item-title">Enhanced specification internal tie cable <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								
+									<li class="navigation-item navigation-level3 page-Ethernet Cablelink">
+                                    	
+										
+											<a href="/cpportal/products/exchange-based-products/ethernet-cablelink" title="Ethernet Cablelink" class="navigation-item-title">Ethernet Cablelink <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								
+									<li class="navigation-item navigation-level3 page-Cablelink Service Connect">
+                                    	
+										
+											<a href="/cpportal/products/exchange-based-products/cablelink-service-connect" title="Cablelink Service Connect" class="navigation-item-title">Cablelink Service Connect <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								
+									<li class="navigation-item navigation-level3 page-Distant location">
+                                    	
+										
+											<a href="/cpportal/products/exchange-based-products/distant-location" title="Distant location" class="navigation-item-title">Distant location <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								
+									<li class="navigation-item navigation-level3 page-GEA Cablelink">
+                                    	
+										
+											<a href="/cpportal/products/exchange-based-products/gea-cablelink" title="GEA Cablelink" class="navigation-item-title">GEA Cablelink <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								
+									<li class="navigation-item navigation-level3 page-Network investigation process">
+                                    	
+										
+											<a href="/cpportal/products/exchange-based-products/network-investigation-process" title="Network investigation process" class="navigation-item-title">Network investigation process <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								
+									<li class="navigation-item navigation-level3 page-Contracts ">
+                                    	
+										
+											<a href="/cpportal/products/exchange-based-products/contracts" title="Contracts " class="navigation-item-title">Contracts  <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								</ul>
+						</li>
+					 
+
+
+ 						
+
+						<li class="nav-child navigation-item navigation-level2 page-Product Development Processes and release information has-children">
+                        
+                        
+							<a href="/cpportal/products/product-development-processes" title="Product Development Processes and release information" class="navigation-second navigation-item-title">Product Development Processes and release information</a> 
+								<ul class="navigation-root navigation-branch navigation-level3">
+									<li class="navigation-item navigation-level3 page-Overview">
+                                    	
+                                        	<a href="/cpportal/products/product-development-processes" title="Overview" class="navigation-second navigation-item-title">Overview</a>
+                                        
+										
+									</li>
+								
+									<li class="navigation-item navigation-level3 page-Statement of Requirements (SOR) Process">
+                                    	
+										
+											<a href="/cpportal/products/product-development-processes/cpzone-statement-of-requirements-SOR-process" title="Statement of Requirements (SOR) Process" class="navigation-item-title">Statement of Requirements (SOR) Process <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								
+									<li class="navigation-item navigation-level3 page-Openreach Product Development Process (C2M)">
+                                    	
+										
+											<a href="/cpportal/products/product-development-processes/cpzone-openreach-product-development-process-C2M" title="Openreach Product Development Process (C2M)" class="navigation-item-title">Openreach Product Development Process (C2M) <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								
+									<li class="navigation-item navigation-level3 page-Product release documentation (EIP Comms)">
+                                    	
+										
+											<a href="/cpportal/products/product-development-processes/cpzone-product-release-documentation-EIP-comms" title="Product release documentation (EIP Comms)" class="navigation-item-title">Product release documentation (EIP Comms) <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								
+									<li class="navigation-item navigation-level3 page-Product roadmap">
+                                    	
+										
+											<a href="/cpportal/products/product-development-processes/cpzone-product-release-documentation-product-roadmap" title="Product roadmap" class="navigation-item-title">Product roadmap <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								
+									<li class="navigation-item navigation-level3 page-Types of Trials for Openreach CPs">
+                                    	
+										
+											<a href="/cpportal/products/product-development-processes/cpzone-types-of-trials-for-openreach-cps" title="Types of Trials for Openreach CPs" class="navigation-item-title">Types of Trials for Openreach CPs <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								</ul>
+						</li>
+					 
+
+
+ 						
+
+						<li class="nav-child navigation-item navigation-level2 page-Product withdrawal has-children">
+                        
+                        
+							<a href="/cpportal/products/product-withdrawal" title="Product withdrawal" class="navigation-second navigation-item-title">Product withdrawal</a> 
+								<ul class="navigation-root navigation-branch navigation-level3">
+									<li class="navigation-item navigation-level3 page-Overview">
+                                    	
+                                        	<a href="/cpportal/products/product-withdrawal" title="Overview" class="navigation-second navigation-item-title">Overview</a>
+                                        
+										
+									</li>
+								
+									<li class="navigation-item navigation-level3 page-Backhaul Extension Services (BES)">
+                                    	
+										
+											<a href="/cpportal/products/product-withdrawal/backhaul-extension-services(BES)" title="Backhaul Extension Services (BES)" class="navigation-item-title">Backhaul Extension Services (BES) <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								
+									<li class="navigation-item navigation-level3 page-Backhaul Network Services (BNS)">
+                                    	
+										
+											<a href="/cpportal/products/product-withdrawal/backhaul-network-services(BNS)" title="Backhaul Network Services (BNS)" class="navigation-item-title">Backhaul Network Services (BNS) <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								
+									<li class="navigation-item navigation-level3 page-Openreach Network Backhaul Services (ONBS)">
+                                    	
+										
+											<a href="/cpportal/products/product-withdrawal/openreach-network-backhaul-services(ONBS)" title="Openreach Network Backhaul Services (ONBS)" class="navigation-item-title">Openreach Network Backhaul Services (ONBS) <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								
+									<li class="navigation-item navigation-level3 page-TDM (Time Division Multiplex) access bearer">
+                                    	
+										
+											<a href="/cpportal/products/product-withdrawal/tdm(time-division-multiplex)access-bearer" title="TDM (Time Division Multiplex) access bearer" class="navigation-item-title">TDM (Time Division Multiplex) access bearer <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								
+									<li class="navigation-item navigation-level3 page-Wholesale Extension Services (WES) and Wholesale End-to-End Services (WEES)">
+                                    	
+										
+											<a href="/cpportal/products/product-withdrawal/wholesale-extension-services(WES)-and-wholesale-end-to-end-services(WEES)" title="Wholesale Extension Services (WES) and Wholesale End-to-End Services (WEES)" class="navigation-item-title">Wholesale Extension Services (WES) and Wholesale End-to-End Services (WEES) <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								
+									<li class="navigation-item navigation-level3 page-WES Aggregation">
+                                    	
+										
+											<a href="/cpportal/products/product-withdrawal/wes-aggregation" title="WES Aggregation" class="navigation-item-title">WES Aggregation <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								
+									<li class="navigation-item navigation-level3 page-CCTV Access">
+                                    	
+										
+											<a href="/cpportal/products/product-withdrawal/cctv-access" title="CCTV Access" class="navigation-item-title">CCTV Access <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								
+									<li class="navigation-item navigation-level3 page-Fibre Voice Access">
+                                    	
+										
+											<a href="/cpportal/products/product-withdrawal/fibre-voice-access" title="Fibre Voice Access" class="navigation-item-title">Fibre Voice Access <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								
+									<li class="navigation-item navigation-level3 page-Wlr Withdrawal">
+                                    	
+										
+											<a href="/cpportal/products/product-withdrawal/wlr-withdrawal" title="Wlr Withdrawal" class="navigation-item-title">Wlr Withdrawal <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								
+									<li class="navigation-item navigation-level3 page-Stop Sells Updates">
+                                    	
+										
+											<a href="/cpportal/products/product-withdrawal/stop-sells-updates" title="Stop Sells Updates" class="navigation-item-title">Stop Sells Updates <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								</ul>
+						</li>
+					 
+
+
+ 						
+
+						<li class="nav-child navigation-item navigation-level2 page-Ancillary Documents (Change Control) ">
+                        
+                        
+							<a href="/cpportal/products/ancillary-documents(change-control)" title="Ancillary Documents (Change Control)" class="navigation-second navigation-item-title">Ancillary Documents (Change Control)</a> 
+								
+						</li>
+					 
+
+
+ 						
+
+						<li class="nav-child navigation-item navigation-level2 page-Contracts has-children">
+                        
+                        
+							<a href="/cpportal/products/contracts" title="Contracts" class="navigation-second navigation-item-title">Contracts</a> 
+								<ul class="navigation-root navigation-branch navigation-level3">
+									<li class="navigation-item navigation-level3 page-Overview">
+                                    	
+                                        	<a href="/cpportal/products/contracts" title="Overview" class="navigation-second navigation-item-title">Overview</a>
+                                        
+										
+									</li>
+								
+									<li class="navigation-item navigation-level3 page-SOGEA and SOGfast">
+                                    	
+										
+											<a href="/cpportal/products/contracts/SOGEA-and-SOGfast-contracts" title="SOGEA and SOGfast" class="navigation-item-title">SOGEA and SOGfast <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								
+									<li class="navigation-item navigation-level3 page-Data Privacy">
+                                    	
+										
+											<a href="/cpportal/products/contracts/dataprivacy" title="Data Privacy" class="navigation-item-title">Data Privacy <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								
+									<li class="navigation-item navigation-level3 page-SOTAP contracts">
+                                    	
+										
+											<a href="/cpportal/products/contracts/SOTAP-contracts" title="SOTAP contracts" class="navigation-item-title">SOTAP contracts <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								</ul>
+						</li>
+					 
+
+
+ 						
+
+						<li class="nav-child navigation-item navigation-level2 page-Pricing ">
+                        
+                        
+							<a href="/cpportal/products/pricing" title="Pricing" class="navigation-second navigation-item-title">Pricing</a> 
+								
+						</li>
+					 
+
+
+ 						
+
+						<li class="nav-child navigation-item navigation-level2 page-Industry Consultations ">
+                        
+                        
+							<a href="/cpportal/products/industryConsultations" title="Industry Consultations" class="navigation-second navigation-item-title">Industry Consultations</a> 
+								
+						</li>
+					 
+
+
+ 						
+
+						<li class="nav-child navigation-item navigation-level2 page-FlexZones ">
+                        
+                        
+							<a href="/cpportal/products/flexzone" title="FlexZones" class="navigation-second navigation-item-title">FlexZones</a> 
+								
+						</li>
+					 
+
+
+ 						
+
+						<li class="nav-child navigation-item navigation-level2 page-Product Process descriptions has-children">
+                        
+                        
+							<a href="/cpportal/products/product-process-descriptions" title="Product Process descriptions" class="navigation-second navigation-item-title">Product Process descriptions</a> 
+								<ul class="navigation-root navigation-branch navigation-level3">
+									<li class="navigation-item navigation-level3 page-Overview">
+                                    	
+                                        	<a href="/cpportal/products/product-process-descriptions" title="Overview" class="navigation-second navigation-item-title">Overview</a>
+                                        
+										
+									</li>
+								
+									<li class="navigation-item navigation-level3 page-FTTP  ">
+                                    	
+										
+											<a href="/cpportal/products/product-process-descriptions/fttp" title="FTTP  " class="navigation-item-title">FTTP   <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								</ul>
+						</li>
+					</ul>
+			</li>
+
+		 
+
+            
+
+
+            <li class="first navigation-item navigation-level1 page-Services has-children">
+
+
+				<a href="/cpportal/services" title="Services" class="navigation-item-title">Services </a>
+					<ul class="navigation-root navigation-branch navigation-level2"> 
+
+
+ 						
+
+						<li class="nav-child navigation-item navigation-level2 page-Overview ">
+                        
+                        		<a href="/cpportal/services" title="Overview" class="navigation-second navigation-item-title">Overview</a>
+                        
+                         
+								
+						</li>
+					 
+
+
+ 						
+
+						<li class="nav-child navigation-item navigation-level2 page-Product services has-children">
+                        
+                        
+							<a href="/cpportal/services/product-services" title="Product services" class="navigation-second navigation-item-title">Product services</a> 
+								<ul class="navigation-root navigation-branch navigation-level3">
+									<li class="navigation-item navigation-level3 page-Overview">
+                                    	
+                                        	<a href="/cpportal/services/product-services" title="Overview" class="navigation-second navigation-item-title">Overview</a>
+                                        
+										
+									</li>
+								
+									<li class="navigation-item navigation-level3 page-Direct End Customer Contact">
+                                    	
+										
+											<a href="/cpportal/services/product-services/direct-end-customer-contact" title="Direct End Customer Contact" class="navigation-item-title">Direct End Customer Contact <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								
+									<li class="navigation-item navigation-level3 page-Flexible appointments">
+                                    	
+										
+											<a href="/cpportal/services/product-services/flexible-appointments" title="Flexible appointments" class="navigation-item-title">Flexible appointments <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								
+									<li class="navigation-item navigation-level3 page-Number portability">
+                                    	
+										
+											<a href="/cpportal/services/product-services/number-portability" title="Number portability" class="navigation-item-title">Number portability <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								
+									<li class="navigation-item navigation-level3 page-Events and exhibitions">
+                                    	
+										
+											<a href="/cpportal/services/product-services/events-and-exhibitions" title="Events and exhibitions" class="navigation-item-title">Events and exhibitions <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								
+									<li class="navigation-item navigation-level3 page-Non standard lines">
+                                    	
+										
+											<a href="/cpportal/services/product-services/non-standard-lines" title="Non standard lines" class="navigation-item-title">Non standard lines <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								
+									<li class="navigation-item navigation-level3 page-Network in advance">
+                                    	
+										
+											<a href="/cpportal/services/project-services/network-in-advance" title="Network in advance" class="navigation-item-title">Network in advance <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								
+									<li class="navigation-item navigation-level3 page-Stand alone survey (SAS)">
+                                    	
+										
+											<a href="/cpportal/services/product-services/standalone-survey" title="Stand alone survey (SAS)" class="navigation-item-title">Stand alone survey (SAS) <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								
+									<li class="navigation-item navigation-level3 page-Excess construction charges (ECC)">
+                                    	
+										
+											<a href="/cpportal/services/product-services/excess-construction-charges(ECC)" title="Excess construction charges (ECC)" class="navigation-item-title">Excess construction charges (ECC) <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								
+									<li class="navigation-item navigation-level3 page-Directory and number information">
+                                    	
+										
+											<a href="/cpportal/services/product-services/directory-and-number-information" title="Directory and number information" class="navigation-item-title">Directory and number information <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								
+									<li class="navigation-item navigation-level3 page-Nuisance Calls Service">
+                                    	
+										
+											<a href="/cpportal/services/product-services/nuisance-calls-service" title="Nuisance Calls Service" class="navigation-item-title">Nuisance Calls Service <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								
+									<li class="navigation-item navigation-level3 page-Ethernet transfer of service">
+                                    	
+										
+											<a href="/cpportal/services/product-services/ethernet-transfer-of-service" title="Ethernet transfer of service" class="navigation-item-title">Ethernet transfer of service <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								
+									<li class="navigation-item navigation-level3 page-Advanced order management process">
+                                    	
+										
+											<a href="/cpportal/services/product-services/advanced-order-management-process" title="Advanced order management process" class="navigation-item-title">Advanced order management process <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								
+									<li class="navigation-item navigation-level3 page-Special fault investigation assure">
+                                    	
+										
+											<a href="/cpportal/services/product-services/special-fault-investigation-assure" title="Special fault investigation assure" class="navigation-item-title">Special fault investigation assure <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								
+									<li class="navigation-item navigation-level3 page-Service maintenance levels">
+                                    	
+										
+											<a href="/cpportal/services/product-services/service-maintenance-levels" title="Service maintenance levels" class="navigation-item-title">Service maintenance levels <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								
+									<li class="navigation-item navigation-level3 page-Product migrations">
+                                    	
+										
+											<a href="/cpportal/services/product-services/product-migrations" title="Product migrations" class="navigation-item-title">Product migrations <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								
+									<li class="navigation-item navigation-level3 page-Bulk modifications">
+                                    	
+										
+											<a href="/cpportal/services/product-services/bulk-modifications" title="Bulk modifications" class="navigation-item-title">Bulk modifications <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								
+									<li class="navigation-item navigation-level3 page-Time related charges (TRCs)">
+                                    	
+										
+											<a href="/cpportal/services/product-services/time-related-charges(trcs)" title="Time related charges (TRCs)" class="navigation-item-title">Time related charges (TRCs) <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								
+									<li class="navigation-item navigation-level3 page-Large Scale Time Related Charges">
+                                    	
+										
+											<a href="/cpportal/services/product-services/large-scale-time-related-charges" title="Large Scale Time Related Charges" class="navigation-item-title">Large Scale Time Related Charges <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								
+									<li class="navigation-item navigation-level3 page-Transfer of service">
+                                    	
+										
+											<a href="/cpportal/services/product-services/transfer-of-service" title="Transfer of service" class="navigation-item-title">Transfer of service <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								
+									<li class="navigation-item navigation-level3 page-Name changes">
+                                    	
+										
+											<a href="/cpportal/services/product-services/name-change" title="Name changes" class="navigation-item-title">Name changes <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								
+									<li class="navigation-item navigation-level3 page-Novations">
+                                    	
+										
+											<a href="/cpportal/services/product-services/novations" title="Novations" class="navigation-item-title">Novations <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								
+									<li class="navigation-item navigation-level3 page-Service products contracts">
+                                    	
+										
+											<a href="/cpportal/services/product-services/service-products-contracts" title="Service products contracts" class="navigation-item-title">Service products contracts <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								
+									<li class="navigation-item navigation-level3 page-KPIs">
+                                    	
+										
+											<a href="/cpportal/services/product-services/kpis" title="KPIs" class="navigation-item-title">KPIs <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								
+									<li class="navigation-item navigation-level3 page-Service Level Commitments">
+                                    	
+										
+											<a href="/cpportal/services/product-services/service-level-commitments" title="Service Level Commitments" class="navigation-item-title">Service Level Commitments <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								
+									<li class="navigation-item navigation-level3 page-Digital Price Book">
+                                    	
+										
+											<a href="/cpportal/services/product-services/digital-price-book" title="Digital Price Book" class="navigation-item-title">Digital Price Book <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								
+									<li class="navigation-item navigation-level3 page-One Touch Switch">
+                                    	
+										
+											<a href="/cpportal/services/product-services/cpzone-one-touch-switch" title="One Touch Switch" class="navigation-item-title">One Touch Switch <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								</ul>
+						</li>
+					 
+
+
+ 						
+
+						<li class="nav-child navigation-item navigation-level2 page-Project Services has-children">
+                        
+                        
+							<a href="/cpportal/services/project-services" title="Project Services" class="navigation-second navigation-item-title">Project Services</a> 
+								<ul class="navigation-root navigation-branch navigation-level3">
+									<li class="navigation-item navigation-level3 page-Overview">
+                                    	
+                                        	<a href="/cpportal/services/project-services" title="Overview" class="navigation-second navigation-item-title">Overview</a>
+                                        
+										
+									</li>
+								
+									<li class="navigation-item navigation-level3 page-Project services">
+                                    	
+										
+											<a href="/cpportal/services/infrastructure-build-and-value-add-services/project-services" title="Project services" class="navigation-item-title">Project services <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								
+									<li class="navigation-item navigation-level3 page-Engineering services">
+                                    	
+										
+											<a href="/cpportal/services/infrastructure-build-and-value-add-services/engineering-services" title="Engineering services" class="navigation-item-title">Engineering services <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								
+									<li class="navigation-item navigation-level3 page-Network in advance">
+                                    	
+										
+											<a href="/cpportal/services/project-services/network-in-advance" title="Network in advance" class="navigation-item-title">Network in advance <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								
+									<li class="navigation-item navigation-level3 page-Full fibre infrastructure build (FFIB)">
+                                    	
+										
+											<a href="/cpportal/services/infrastructure-build-and-value-add-services/full-fibre-infrastructure-build(FFIB)" title="Full fibre infrastructure build (FFIB)" class="navigation-item-title">Full fibre infrastructure build (FFIB) <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								</ul>
+						</li>
+					 
+
+
+ 						
+
+						<li class="nav-child navigation-item navigation-level2 page-Discover our infrastructure build and value add services has-children">
+                        
+                        
+							<a href="/cpportal/services/infrastructure-build-and-value-add-services" title="Discover our infrastructure build and value add services" class="navigation-second navigation-item-title">Discover our infrastructure build and value add services</a> 
+								<ul class="navigation-root navigation-branch navigation-level3">
+									<li class="navigation-item navigation-level3 page-Overview">
+                                    	
+                                        	<a href="/cpportal/services/infrastructure-build-and-value-add-services" title="Overview" class="navigation-second navigation-item-title">Overview</a>
+                                        
+										
+									</li>
+								
+									<li class="navigation-item navigation-level3 page-Infrastructure">
+                                    	
+										
+											<a href="/cpportal/services/infrastructure-build/infrastructure" title="Infrastructure" class="navigation-item-title">Infrastructure <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								
+									<li class="navigation-item navigation-level3 page-Full fibre infrastructure build (FFIB)">
+                                    	
+										
+											<a href="/cpportal/services/infrastructure-build-and-value-add-services/full-fibre-infrastructure-build(FFIB)" title="Full fibre infrastructure build (FFIB)" class="navigation-item-title">Full fibre infrastructure build (FFIB) <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								
+									<li class="navigation-item navigation-level3 page-Engineering services">
+                                    	
+										
+											<a href="/cpportal/services/infrastructure-build-and-value-add-services/engineering-services" title="Engineering services" class="navigation-item-title">Engineering services <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								
+									<li class="navigation-item navigation-level3 page-Project services">
+                                    	
+										
+											<a href="/cpportal/services/infrastructure-build-and-value-add-services/project-services" title="Project services" class="navigation-item-title">Project services <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								</ul>
+						</li>
+					 
+
+
+ 						
+
+						<li class="nav-child navigation-item navigation-level2 page-Bid Management ">
+                        
+                        
+							<a href="/cpportal/services/bid-management" title="Bid Management" class="navigation-second navigation-item-title">Bid Management</a> 
+								
+						</li>
+					 
+
+
+ 						
+
+						<li class="nav-child navigation-item navigation-level2 page-Wayleaves ">
+                        
+                        
+							<a href="/cpportal/services/cpzone-wayleaves" title="Wayleaves" class="navigation-second navigation-item-title">Wayleaves</a> 
+								
+						</li>
+					 
+
+
+ 						
+
+						<li class="nav-child navigation-item navigation-level2 page-Infrastructure Build has-children">
+                        
+                        
+							<a href="/cpportal/services/infrastructure-build" title="Infrastructure Build" class="navigation-second navigation-item-title">Infrastructure Build</a> 
+								<ul class="navigation-root navigation-branch navigation-level3">
+									<li class="navigation-item navigation-level3 page-Overview">
+                                    	
+                                        	<a href="/cpportal/services/infrastructure-build" title="Overview" class="navigation-second navigation-item-title">Overview</a>
+                                        
+										
+									</li>
+								
+									<li class="navigation-item navigation-level3 page-Infrastructure">
+                                    	
+										
+											<a href="/cpportal/services/infrastructure-build/infrastructure" title="Infrastructure" class="navigation-item-title">Infrastructure <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								</ul>
+						</li>
+					</ul>
+			</li>
+
+		 
+
+            
+
+
+            <li class="first navigation-item navigation-level1 page-Industry Engagement has-children">
+
+
+				<a href="/cpportal/industry-engagement" title="Industry Engagement" class="navigation-item-title">Industry Engagement </a>
+					<ul class="navigation-root navigation-branch navigation-level2"> 
+
+
+ 						
+
+						<li class="nav-child navigation-item navigation-level2 page-Overview ">
+                        
+                        		<a href="/cpportal/industry-engagement" title="Overview" class="navigation-second navigation-item-title">Overview</a>
+                        
+                         
+								
+						</li>
+					 
+
+
+ 						
+
+						<li class="nav-child navigation-item navigation-level2 page-Groups has-children">
+                        
+                        
+							<a href="/cpportal/industry-engagement/groups" title="Groups" class="navigation-second navigation-item-title">Groups</a> 
+								<ul class="navigation-root navigation-branch navigation-level3">
+									<li class="navigation-item navigation-level3 page-Overview">
+                                    	
+                                        	<a href="/cpportal/industry-engagement/groups" title="Overview" class="navigation-second navigation-item-title">Overview</a>
+                                        
+										
+									</li>
+								</ul>
+						</li>
+					 
+
+
+ 						
+
+						<li class="nav-child navigation-item navigation-level2 page-Events Calendar has-children">
+                        
+                        
+							<a href="/cpportal/industry-engagement/events-calendar" title="Events Calendar" class="navigation-second navigation-item-title">Events Calendar</a> 
+								<ul class="navigation-root navigation-branch navigation-level3">
+									<li class="navigation-item navigation-level3 page-Overview">
+                                    	
+                                        	<a href="/cpportal/industry-engagement/events-calendar" title="Overview" class="navigation-second navigation-item-title">Overview</a>
+                                        
+										
+									</li>
+								</ul>
+						</li>
+					</ul>
+			</li>
+
+		 
+
+            
+
+
+            <li class="first navigation-item navigation-level1 page-Updates has-children">
+
+
+				<a href="/cpportal/updates" title="Updates" class="navigation-item-title">Updates </a>
+					<ul class="navigation-root navigation-branch navigation-level2"> 
+
+
+ 						
+
+						<li class="nav-child navigation-item navigation-level2 page-Overview ">
+                        
+                        		<a href="/cpportal/updates" title="Overview" class="navigation-second navigation-item-title">Overview</a>
+                        
+                         
+								
+						</li>
+					 
+
+
+ 						
+
+						<li class="nav-child navigation-item navigation-level2 page-Briefings has-children">
+                        
+                        
+							<a href="/cpportal/updates/briefings" title="Briefings" class="navigation-second navigation-item-title">Briefings</a> 
+								<ul class="navigation-root navigation-branch navigation-level3">
+									<li class="navigation-item navigation-level3 page-General briefings">
+                                    	
+										
+											<a href="/cpportal/updates/briefings/general-briefings" title="General briefings" class="navigation-item-title">General briefings <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								</ul>
+						</li>
+					 
+
+
+ 						
+
+						<li class="nav-child navigation-item navigation-level2 page-Matters Beyond Our Reasonable Control ">
+                        
+                        
+							<a href="/cpportal/updates/cpzone-mborc" title="Matters Beyond Our Reasonable Control" class="navigation-second navigation-item-title">Matters Beyond Our Reasonable Control</a> 
+								
+						</li>
+					 
+
+
+ 						
+
+						<li class="nav-child navigation-item navigation-level2 page-Calls  ">
+                        
+                        
+							<a href="/cpportal/updates/cpzone-updates-calls" title="Calls " class="navigation-second navigation-item-title">Calls </a> 
+								
+						</li>
+					 
+
+
+ 						
+
+						<li class="nav-child navigation-item navigation-level2 page-System notifications ">
+                        
+                        
+							<a href="/cpportal/updates/cpzone-updates-system-notifications" title="System notifications" class="navigation-second navigation-item-title">System notifications</a> 
+								
+						</li>
+					 
+
+
+ 						
+
+						<li class="nav-child navigation-item navigation-level2 page-Notifications has-children">
+                        
+                        
+							<a href="/cpportal/updates/notifications/cpzone-notifications" title="Notifications" class="navigation-second navigation-item-title">Notifications</a> 
+								<ul class="navigation-root navigation-branch navigation-level3">
+									<li class="navigation-item navigation-level3 page-Overview">
+                                    	
+                                        	<a href="/cpportal/updates/notifications/cpzone-notifications" title="Overview" class="navigation-second navigation-item-title">Overview</a>
+                                        
+										
+									</li>
+								
+									<li class="navigation-item navigation-level3 page-Notifications">
+                                    	
+										
+											<a href="/cpportal/updates/notifications/cpzone-notifications" title="Notifications" class="navigation-item-title">Notifications <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								</ul>
+						</li>
+					 
+
+
+ 						
+
+						<li class="nav-child navigation-item navigation-level2 page-Status ">
+                        
+                        
+							<a href="/cpportal/updates/cpzone-status" title="Status" class="navigation-second navigation-item-title">Status</a> 
+								
+						</li>
+					</ul>
+			</li>
+
+		 
+
+            
+
+
+            <li class="first navigation-item navigation-level1 page-Help &amp; Support has-children">
+
+
+				<a href="/cpportal/help" title="Help &amp; Support" class="navigation-item-title">Help &amp; Support </a>
+					<ul class="navigation-root navigation-branch navigation-level2"> 
+
+
+ 						
+
+						<li class="nav-child navigation-item navigation-level2 page-Overview ">
+                        
+                        		<a href="/cpportal/help" title="Overview" class="navigation-second navigation-item-title">Overview</a>
+                        
+                         
+								
+						</li>
+					 
+
+
+ 						
+
+						<li class="nav-child navigation-item navigation-level2 page-FAQs ">
+                        
+                        
+							<a href="/cpportal/help/faq-category-page" title="FAQs" class="navigation-second navigation-item-title">FAQs</a> 
+								
+						</li>
+					 
+
+
+ 						
+
+						<li class="nav-child navigation-item navigation-level2 page-Guides ">
+                        
+                        
+							<a href="/cpportal/help/guides" title="Guides" class="navigation-second navigation-item-title">Guides</a> 
+								
+						</li>
+					 
+
+
+ 						
+
+						<li class="nav-child navigation-item navigation-level2 page-Customer service plans has-children">
+                        
+                        
+							<a href="/cpportal/help/customer-service-plans" title="Customer service plans" class="navigation-second navigation-item-title">Customer service plans</a> 
+								<ul class="navigation-root navigation-branch navigation-level3">
+									<li class="navigation-item navigation-level3 page-Overview">
+                                    	
+                                        	<a href="/cpportal/help/customer-service-plans" title="Overview" class="navigation-second navigation-item-title">Overview</a>
+                                        
+										
+									</li>
+								
+									<li class="navigation-item navigation-level3 page-Ethernet Services">
+                                    	
+										
+											<a href="/cpportal/help/customer-service-plans/ethernet-services" title="Ethernet Services" class="navigation-item-title">Ethernet Services <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								
+									<li class="navigation-item navigation-level3 page-WLR  ">
+                                    	
+										
+											<a href="/cpportal/help/customer-service-plans/wlr" title="WLR  " class="navigation-item-title">WLR   <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								
+									<li class="navigation-item navigation-level3 page-LLU">
+                                    	
+										
+											<a href="/cpportal/help/customer-service-plans/llu" title="LLU" class="navigation-item-title">LLU <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								
+									<li class="navigation-item navigation-level3 page-Ultrafast and Superfast Fibre Access">
+                                    	
+										
+											<a href="/cpportal/help/customer-service-plans/ultrafast-and-superfast-fibre-access" title="Ultrafast and Superfast Fibre Access" class="navigation-item-title">Ultrafast and Superfast Fibre Access <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								
+									<li class="navigation-item navigation-level3 page-Physical Infrastructure Access  (PIA)">
+                                    	
+										
+											<a href="/cpportal/help/customer-service-plans/physical-infrastructure-access" title="Physical Infrastructure Access  (PIA)" class="navigation-item-title">Physical Infrastructure Access  (PIA) <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								
+									<li class="navigation-item navigation-level3 page-MiiS">
+                                    	
+										
+											<a href="/cpportal/help/customer-service-plans/miis" title="MiiS" class="navigation-item-title">MiiS <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								
+									<li class="navigation-item navigation-level3 page-Dark Fibre (DF)">
+                                    	
+										
+											<a href="/cpportal/help/customer-service-plans/darkfibre" title="Dark Fibre (DF)" class="navigation-item-title">Dark Fibre (DF) <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								
+									<li class="navigation-item navigation-level3 page-SOTAP  ">
+                                    	
+										
+											<a href="/cpportal/help/customer-service-plans/sotap" title="SOTAP  " class="navigation-item-title">SOTAP   <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								
+									<li class="navigation-item navigation-level3 page-CSP Common Sections">
+                                    	
+										
+											<a href="/cpportal/help/customer-service-plans/csp-common-sections" title="CSP Common Sections" class="navigation-item-title">CSP Common Sections <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								
+									<li class="navigation-item navigation-level3 page-CSP Backup">
+                                    	
+										
+											<a href="/cpportal/help/customer-service-plans/csp-backup" title="CSP Backup" class="navigation-item-title">CSP Backup <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								</ul>
+						</li>
+					 
+
+
+ 						
+
+						<li class="nav-child navigation-item navigation-level2 page-Customer test services ">
+                        
+                        
+							<a href="/cpportal/help/customer-test-services" title="Customer test services" class="navigation-second navigation-item-title">Customer test services</a> 
+								
+						</li>
+					 
+
+
+ 						
+
+						<li class="nav-child navigation-item navigation-level2 page-Customer establishment ">
+                        
+                        
+							<a href="/cpportal/help/customer-establishment" title="Customer establishment" class="navigation-second navigation-item-title">Customer establishment</a> 
+								
+						</li>
+					 
+
+
+ 						
+
+						<li class="nav-child navigation-item navigation-level2 page-Ethernet Deemed Consent ">
+                        
+                        
+							<a href="/cpportal/help/ethernet-deemed-consent" title="Ethernet Deemed Consent" class="navigation-second navigation-item-title">Ethernet Deemed Consent</a> 
+								
+						</li>
+					 
+
+
+ 						
+
+						<li class="nav-child navigation-item navigation-level2 page-Suppliers’ information notes (SINS) ">
+                        
+                        
+							<a href="/cpportal/help/suppliers-information-notes-(sins)" title="Suppliers’ information notes (SINS)" class="navigation-second navigation-item-title">Suppliers’ information notes (SINS)</a> 
+								
+						</li>
+					 
+
+
+ 						
+
+						<li class="nav-child navigation-item navigation-level2 page-How to contact Openreach ">
+                        
+                        
+							<a href="/cpportal/help/how-to-contact-openreach" title="How to contact Openreach" class="navigation-second navigation-item-title">How to contact Openreach</a> 
+								
+						</li>
+					 
+
+
+ 						
+
+						<li class="nav-child navigation-item navigation-level2 page-How to use the portal ">
+                        
+                        
+							<a href="/cpportal/help/how-to-use-the-portal" title="How to use the portal" class="navigation-second navigation-item-title">How to use the portal</a> 
+								
+						</li>
+					 
+
+
+ 						
+
+						<li class="nav-child navigation-item navigation-level2 page-Help with the portal has-children">
+                        
+                        
+							<a href="/cpportal/help/help-with-the-portal/help-with-the-portal" title="Help with the portal" class="navigation-second navigation-item-title">Help with the portal</a> 
+								<ul class="navigation-root navigation-branch navigation-level3">
+									<li class="navigation-item navigation-level3 page-Help with the portal">
+                                    	
+										
+											<a href="/cpportal/help/help-with-the-portal/help-with-the-portal" title="Help with the portal" class="navigation-item-title">Help with the portal <span tabindex="0" class="navigation-secondLevelPageKey-decoration"></span> </a>
+										
+									</li>
+								</ul>
+						</li>
+					 
+
+
+ 						
+
+						<li class="nav-child navigation-item navigation-level2 page-Risk Assessment and Method Statement ">
+                        
+                        
+							<a href="/cpportal/help/risk-assessment-and-method-statement" title="Risk Assessment and Method Statement" class="navigation-second navigation-item-title">Risk Assessment and Method Statement</a> 
+								
+						</li>
+					 
+
+
+ 						
+
+						<li class="nav-child navigation-item navigation-level2 page-Single Sign On ">
+                        
+                        
+							<a href="/cpportal/help/sso" title="Single Sign On" class="navigation-second navigation-item-title">Single Sign On</a> 
+								
+						</li>
+					 
+
+
+ 						
+
+						<li class="nav-child navigation-item navigation-level2 page-Sabor ">
+                        
+                        
+							<a href="/cpportal/help/sabor" title="Sabor" class="navigation-second navigation-item-title">Sabor</a> 
+								
+						</li>
+					 
+
+
+ 						
+
+						<li class="nav-child navigation-item navigation-level2 page-Reports ">
+                        
+                        
+							<a href="/cpportal/help/reports" title="Reports" class="navigation-second navigation-item-title">Reports</a> 
+								
+						</li>
+					</ul>
+			</li>
+
+		</ul>
+	  
+	
+	
+
+	
+</div>
+
+
+
+
+    
+
+</div>
+
+      		
+    	</div>
+    </div>
+
+     
+</div>
+
+          
+     </div>
+
+</div>
+
+      		
+    	</div>
+    </div>
+
+     
+</div>
+
+    
+</div>
+
+          
+     </div>
+
+</div>
+<div class="container box component section aem-GridColumn aem-GridColumn--default--12">
+      
+  	
+  	
+
+  	
+  	
+
+	<div id="container-015c947f38" class="cmp-container component-content ">
+
+    	<div class="paragraphSystem content aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+      		
+      		<div class="richText aem-GridColumn aem-GridColumn--default--12"><!--Custom Rich Text component -->
+
+      <div class="component-content">
+
+		<div class="richText-content">
+                        <h1 style="text-align: center;">Whoops!</h1>
+<p style="text-align: center;">Sorry, you've landed on a page that doesn't exist.</p></div>
+			</div>
+</div>
+
+      		
+    	</div>
+    </div>
+
+     
+</div>
+<div class="container box component section maxWidth zero-padding aem-GridColumn aem-GridColumn--default--12">
+     
+     
+     
+     <div id="container-c2be7158c7" class="cmp-container component-content">
+          
+          <div class="experiencefragment">
+<div id="experiencefragment-df8d364b89" class="cmp-experiencefragment cmp-experiencefragment--footer">
+
+      
+  	
+  	
+
+  	
+  	
+
+	<div id="container-e2dcc96e11" class="cmp-container component-content ">
+
+    	<div class="paragraphSystem content aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+      		
+      		<div class="container box component section box-background-teal maxWidth zero-padding aem-GridColumn aem-GridColumn--default--12">
+      
+  	
+  	
+
+  	
+  	
+
+	<div id="container-43061007d9" class="cmp-container component-content ">
+
+    	<div class="paragraphSystem content aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+      		
+      		<div class="container box component section box-wrapper box-footer-template aem-GridColumn--default--none aem-GridColumn aem-GridColumn--default--12 aem-GridColumn--offset--default--0">
+      
+  	
+  	
+
+  	
+  	
+
+	<div id="container-dfb320ee1a" class="cmp-container component-content ">
+
+    	<div class="paragraphSystem content aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+      		
+      		<div class="navigation navigation-footer-primary js-navigation-dropdown aem-GridColumn--default--none aem-GridColumn aem-GridColumn--default--10 aem-GridColumn--offset--default--0"><div class="component-content"> 
+    <div class="analytics-navigation-tracking"></div> 
+    <button class="navigation-mobile-menu" aria-expanded="false"></button>
+	
+<!-- Custom Navigation component -->
+
+
+
+
+	
+		<ul class="navigation-root navigation-branch navigation-level1"> 
+
+            
+
+
+            <li class="first navigation-item navigation-level1 page-Help and Support has-children">
+
+
+				<a href="/cpportal/footer-pages/help-and-support" title="Help and Support" class="navigation-item-title">Help and Support </a>
+					<ul class="navigation-root navigation-branch navigation-level2"> 
+
+
+ 						
+
+						<li class="nav-child navigation-item navigation-level2 page-Overview ">
+                        
+                        		<a href="/cpportal/footer-pages/help-and-support" title="Overview" class="navigation-second navigation-item-title">Overview</a>
+                        
+                         
+								
+						</li>
+					 
+
+
+ 						
+
+						<li class="nav-child navigation-item navigation-level2 page-Damage Health and safety ">
+                        
+                        
+							<a href="/cpportal/footer-pages/help-and-support/damage-health-and-safety" title="Damage Health and safety" class="navigation-second navigation-item-title">Damage Health and safety</a> 
+								
+						</li>
+					 
+
+
+ 						
+
+						<li class="nav-child navigation-item navigation-level2 page-Questions about fibre availability ">
+                        
+                        
+							<a href="/cpportal/footer-pages/help-and-support/questions-about-fibre-availability" title="Questions about fibre availability" class="navigation-second navigation-item-title">Questions about fibre availability</a> 
+								
+						</li>
+					 
+
+
+ 						
+
+						<li class="nav-child navigation-item navigation-level2 page-Crimes and scams ">
+                        
+                        
+							<a href="/cpportal/footer-pages/help-and-support/crimes-and-scams" title="Crimes and scams" class="navigation-second navigation-item-title">Crimes and scams</a> 
+								
+						</li>
+					 
+
+
+ 						
+
+						<li class="nav-child navigation-item navigation-level2 page-How to contact Openreach  ">
+                        
+                        
+							<a href="/cpportal/footer-pages/help-and-support/how-to-contact-openreach" title="How to contact Openreach " class="navigation-second navigation-item-title">How to contact Openreach </a> 
+								
+						</li>
+					 
+
+
+ 						
+
+						<li class="nav-child navigation-item navigation-level2 page-How to use the portal  ">
+                        
+                        
+							<a href="/cpportal/footer-pages/help-and-support/how-to-use-the-portal" title="How to use the portal " class="navigation-second navigation-item-title">How to use the portal </a> 
+								
+						</li>
+					 
+
+
+ 						
+
+						<li class="nav-child navigation-item navigation-level2 page-When can I get fibre ">
+                        
+                        
+							<a href="/cpportal/footer-pages/help-and-support/when-can-I-get-fibre" title="When can I get fibre" class="navigation-second navigation-item-title">When can I get fibre</a> 
+								
+						</li>
+					</ul>
+			</li>
+
+		 
+
+            
+
+
+            <li class="first navigation-item navigation-level1 page-About us has-children">
+
+
+				<a href="/cpportal/footer-pages/about-us" title="About us" class="navigation-item-title">About us </a>
+					<ul class="navigation-root navigation-branch navigation-level2"> 
+
+
+ 						
+
+						<li class="nav-child navigation-item navigation-level2 page-Overview ">
+                        
+                        		<a href="/cpportal/footer-pages/about-us" title="Overview" class="navigation-second navigation-item-title">Overview</a>
+                        
+                         
+								
+						</li>
+					 
+
+
+ 						
+
+						<li class="nav-child navigation-item navigation-level2 page-Who we are ">
+                        
+                        
+							<a href="/cpportal/footer-pages/about-us/who-we-are" title="Who we are" class="navigation-second navigation-item-title">Who we are</a> 
+								
+						</li>
+					 
+
+
+ 						
+
+						<li class="nav-child navigation-item navigation-level2 page-Leadership and Governance ">
+                        
+                        
+							<a href="/cpportal/footer-pages/about-us/leadership-and-governance" title="Leadership and Governance" class="navigation-second navigation-item-title">Leadership and Governance</a> 
+								
+						</li>
+					 
+
+
+ 						
+
+						<li class="nav-child navigation-item navigation-level2 page-Our history ">
+                        
+                        
+							<a href="/cpportal/footer-pages/about-us/our-history" title="Our history" class="navigation-second navigation-item-title">Our history</a> 
+								
+						</li>
+					 
+
+
+ 						
+
+						<li class="nav-child navigation-item navigation-level2 page-Our performance ">
+                        
+                        
+							<a href="/cpportal/footer-pages/about-us/our-performance" title="Our performance" class="navigation-second navigation-item-title">Our performance</a> 
+								
+						</li>
+					 
+
+
+ 						
+
+						<li class="nav-child navigation-item navigation-level2 page-Openreach.com ">
+                        
+                        
+							<a href="/cpportal/footer-pages/about-us/openreach" title="Openreach.com" class="navigation-second navigation-item-title">Openreach.com</a> 
+								
+						</li>
+					</ul>
+			</li>
+
+		</ul>
+	  
+	
+	
+
+	
+</div>
+
+
+
+
+    
+
+</div>
+<div class="social-share box-follow-us aem-GridColumn--default--none aem-GridColumn aem-GridColumn--offset--default--0 aem-GridColumn--default--2"><div class="social-share">
+  <div class="social-share-content">
+  
+    <div class="social-share-icons">
+        
+            	
+        
+        
+    </div>
+  </div>
+</div>
+<div>
+	
+    <div class="paragraphSystem content"> 
+         <div class="richText component section default-style"> 
+          <div class="component-content">
+          <div class="social-share-label" style="display:none;">
+      Follow us
+    </div>
+           <div class="richText-content"> 
+            <p>Follow us</p> 
+           </div> 
+          </div> 
+         </div> 
+         <div class="image component section image-svg-icon strudel-init"> 
+          <div class="component-content left"> 
+           <div class="analytics-image-tracking"></div> 
+           <a href="https://twitter.com/weareopenreach" title="Twitter" target="_blank" rel="noopener noreferrer"><svg width="42px" height="42px" viewBox="0 0 42 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+        <title>Twitter</title>
+    <desc>Created with Sketch.</desc>
+    <g id="OR_01_GlobalFooter" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="OR_01_GlobalFooter_1440px" transform="translate(-1207.000000, -71.000000)">
+            <g id="Footer/Desktop">
+                <g id="Group-4" transform="translate(1208.000000, 72.000000)">
+                    <g id="Twitter">
+                        <g id="facebook" fill-rule="nonzero" stroke="#FFFFFF" stroke-width="2">
+                            <circle id="Oval-2-Copy" cx="20" cy="20" r="20"></circle>
+                        </g>
+                        <g id="twitter" transform="translate(10.000000, 12.000000)" fill="#FFFFFF">
+                            <path d="M17.9442107,3.98748548 C17.9569061,4.16247712 17.9569061,4.33750724 17.9569061,4.51249889 C17.9569061,9.84997487 13.832554,16 6.29443865,16 C3.97208583,16 1.81473365,15.3374712 0,14.1875206 C0.329962226,14.2249968 0.647190028,14.2375017 0.989847617,14.2375017 C2.90606604,14.2375017 4.6700573,13.6000212 6.07869562,12.5125181 C4.27665733,12.4750034 2.76649518,11.3125095 2.24618065,9.71249793 C2.50000977,9.74997415 2.75379982,9.77498395 3.0203243,9.77498395 C3.38833355,9.77498395 3.75638186,9.72496435 4.09900039,9.637507 C2.22082899,9.26247544 0.81215161,7.63749258 0.81215161,5.67499285 L0.81215161,5.62501172 C1.3578178,5.92501389 1.9923906,6.11251043 2.66493228,6.13748175 C1.56086547,5.4124669 0.837542334,4.17498202 0.837542334,2.77497192 C0.837542334,2.02498575 1.04055094,1.3374856 1.39590389,0.737481273 C3.41368521,3.18747971 6.44670487,4.78745278 9.84769472,4.9624829 C9.78425697,4.66248073 9.74617088,4.35001214 9.74617088,4.03750508 C9.74617088,1.81247941 11.5735999,0 13.8451713,0 C15.0253712,0 16.0913519,0.487498707 16.8401048,1.27499958 C17.7664757,1.10000794 18.6547994,0.762491072 19.4416384,0.300002164 C19.1370279,1.23752336 18.4898379,2.02502423 17.6396002,2.52498936 C18.4644862,2.43753201 19.2639815,2.21248229 20,1.90001371 C19.4417166,2.699981 18.743706,3.41245248 17.9442107,3.98748548 Z" id="Path" vector-effect="non-scaling-stroke"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
+ </a> 
+          </div> 
+         </div> 
+         <div class="image component section image-svg-icon strudel-init"> 
+          <div class="component-content left"> 
+           <div class="analytics-image-tracking"></div> 
+           <a href="https://www.facebook.com/WeAreOpenreach/" title="Facebook" target="_blank" rel="noopener noreferrer"><svg width="42px" height="42px" viewBox="0 0 42 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Facebook</title>
+    <desc>Created with Sketch.</desc>
+    <g id="OR_01_GlobalFooter" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="OR_01_GlobalFooter_1440px" transform="translate(-1257.000000, -71.000000)">
+            <g id="Footer/Desktop">
+                <g id="Group-4" transform="translate(1208.000000, 72.000000)">
+                    <g id="Facebook" transform="translate(50.000000, 0.000000)">
+                        <g id="twitter" fill-rule="nonzero" stroke="#FFFFFF" stroke-width="2">
+                            <circle id="Oval-2" cx="20" cy="20" r="20"></circle>
+                        </g>
+                        <g id="facebook-f" transform="translate(14.000000, 10.000000)" fill="#FFFFFF">
+                            <path d="M8.99166667,3.3203125 L11,3.3203125 L11,0.140625 C10.6541667,0.09765625 9.4625,0 8.075,0 C5.17916667,0 3.19583333,1.65625 3.19583333,4.69921875 L3.19583333,7.5 L0,7.5 L0,11.0546875 L3.19583333,11.0546875 L3.19583333,20 L7.1125,20 L7.1125,11.0546875 L10.1791667,11.0546875 L10.6666667,7.5 L7.1125,7.5 L7.1125,5.05078125 C7.1125,4.0234375 7.41666667,3.3203125 8.99166667,3.3203125 Z" id="Path" vector-effect="non-scaling-stroke"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
+ </a> 
+          </div> 
+         </div> 
+        </div>
+</div></div>
+<div class="navigation navigation-footer-secondary aem-GridColumn--default--none aem-GridColumn aem-GridColumn--default--12 aem-GridColumn--offset--default--0"><div class="component-content"> 
+    <div class="analytics-navigation-tracking"></div> 
+    <button class="navigation-mobile-menu" aria-expanded="false"></button>
+	
+<!-- Custom Navigation component -->
+
+
+
+
+	  
+	
+	
+
+	
+	   <ul class="navigation-root navigation-branch navigation-level1">
+   		<li class="odd first navigation-item navigation-level1 page-news-and-opinion">
+			<a href="https://www.openreach.com/news-and-opinion" title="news-and-opinion" class="navigation-item-title">
+					News and Opinion <span tabindex="0" class="navigation-item-decoration"></span> 
+			</a>
+         </li>
+   
+   		<li class="odd first navigation-item navigation-level1 page-press-and-media">
+			<a href="https://www.openreach.com/news/" title="press-and-media" class="navigation-item-title">
+					Press and media <span tabindex="0" class="navigation-item-decoration"></span> 
+			</a>
+         </li>
+   
+   		<li class="odd first navigation-item navigation-level1 page-privacy-policy">
+			<a href="/cpportal/privacy-policy" title="privacy-policy" class="navigation-item-title">
+					Privacy policy <span tabindex="0" class="navigation-item-decoration"></span> 
+			</a>
+         </li>
+   
+   		<li class="odd first navigation-item navigation-level1 page-terms-and-conditions">
+			<a href="/cpportal/terms-and-conditions" title="terms-and-conditions" class="navigation-item-title">
+					Terms and conditions <span tabindex="0" class="navigation-item-decoration"></span> 
+			</a>
+         </li>
+   
+   		<li class="odd first navigation-item navigation-level1 page-disclaimer">
+			<a href="/cpportal/disclaimer" title="disclaimer" class="navigation-item-title">
+					Disclaimer <span tabindex="0" class="navigation-item-decoration"></span> 
+			</a>
+         </li>
+   
+   		<li class="odd first navigation-item navigation-level1 page-cookies">
+			<a href="/cpportal/cookie-policy" title="cookies" class="navigation-item-title">
+					Cookies <span tabindex="0" class="navigation-item-decoration"></span> 
+			</a>
+         </li>
+   
+   		<li class="odd first navigation-item navigation-level1 page-accessibility">
+			<a href="/cpportal/accessibility" title="accessibility" class="navigation-item-title">
+					Accessibility <span tabindex="0" class="navigation-item-decoration"></span> 
+			</a>
+         </li>
+   
+   		<li class="odd first navigation-item navigation-level1 page-commitments-monitoring-office">
+			<a href="/cpportal/commitments-monitoring-office" title="commitments-monitoring-office" class="navigation-item-title">
+					Commitments monitoring office <span tabindex="0" class="navigation-item-decoration"></span> 
+			</a>
+         </li>
+   
+   		<li class="odd first navigation-item navigation-level1 page-equivalence">
+			<a href="/cpportal/equivalence" title="equivalence" class="navigation-item-title">
+					Equivalence <span tabindex="0" class="navigation-item-decoration"></span> 
+			</a>
+         </li>
+   </ul>                                 
+	
+</div>
+
+
+
+
+    
+
+</div>
+
+      		
+    	</div>
+    </div>
+
+     
+</div>
+
+      		
+    	</div>
+    </div>
+
+     
+</div>
+<div class="container box component section box-copyright maxWidth aem-GridColumn--default--none aem-GridColumn aem-GridColumn--default--11 aem-GridColumn--offset--default--0">
+      
+  	
+  	
+
+  	
+  	
+
+	<div id="container-cda1ebe2bb" class="cmp-container component-content ">
+
+    	<div class="paragraphSystem content aem-Grid aem-Grid--11 aem-Grid--default--11 ">
+      		
+      		<div class="image aem-GridColumn--default--none aem-GridColumn aem-GridColumn--offset--default--1 aem-GridColumn--default--2"><!--Custom Image component -->
+<div class="component-content left">
+	<a href="/cpportal/home"><image src="/content/dam/cpportal/public/images-and-documents/home/images/openreach-logo.jpeg" alt="" title="" width="" height="" />
+
+    </a>
+        </div>
+</div>
+<div class="richText aem-GridColumn--default--none aem-GridColumn aem-GridColumn--default--3 aem-GridColumn--offset--default--0"><!--Custom Rich Text component -->
+
+      <div class="component-content">
+
+		<div class="richText-content">
+                        <p>@ © British Telecommunication plc 2025</p>
+</div>
+			</div>
+</div>
+
+      		
+    	</div>
+    </div>
+
+     
+</div>
+
+      		
+    	</div>
+    </div>
+
+     
+</div>
+
+    
+</div>
+
+          
+     </div>
+
+</div>
+
+    
+</div>
+</div>
+
+
+    
+    
+<script src="/cpportal/etc.clientlibs/openreach/cpportal/clientlibs/bootstrap-libs.js"></script>
+
+
+
+
+				 		
+			
+		</body>
+	</html>

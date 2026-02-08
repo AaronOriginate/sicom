@@ -152,6 +152,8 @@ button { cursor: pointer; border: none; background: none; font-family: inherit; 
 }
 .nav-links a:hover,
 .nav-links a.active { color: var(--text-primary); }
+.nav-links a.nav-cta,
+.nav-links a.nav-cta:hover { color: var(--bg-deep); }
 .nav-links a.active::after {
   content: '';
   position: absolute;
